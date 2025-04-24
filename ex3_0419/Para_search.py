@@ -1,3 +1,4 @@
+import nltk
 import scipy.io
 import scipy.optimize
 from sklearn import svm
